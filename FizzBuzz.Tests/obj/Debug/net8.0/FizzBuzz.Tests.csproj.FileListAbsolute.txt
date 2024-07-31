@@ -97,10 +97,10 @@
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.AssemblyInfoInputs.cache
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.AssemblyInfo.cs
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.csproj.CoreCompileInputs.cache
-/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.csproj.CopyComplete
+/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.sourcelink.json
+/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.93DB7777.Up2Date
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.dll
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/refint/FizzBuzz.Tests.dll
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.pdb
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.genruntimeconfig.cache
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/ref/FizzBuzz.Tests.dll
-/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz.Tests/obj/Debug/net8.0/FizzBuzz.Tests.sourcelink.json

@@ -5,8 +5,8 @@
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
 /Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll
-/Users/Applepie/environment/C#_projects/Monday/TDD-CS-FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json
